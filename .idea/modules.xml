@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01exfuncao/01exfuncao.iml" filepath="$PROJECT_DIR$/01exfuncao/01exfuncao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02exfuncao/02exfuncao.iml" filepath="$PROJECT_DIR$/02exfuncao/02exfuncao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03exfuncao/03exfuncao.iml" filepath="$PROJECT_DIR$/03exfuncao/03exfuncao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04exbanco/04exbanco.iml" filepath="$PROJECT_DIR$/04exbanco/04exbanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05excomposicao/05excomposicao.iml" filepath="$PROJECT_DIR$/05excomposicao/05excomposicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06expolimorfismo/06expolimorfismo.iml" filepath="$PROJECT_DIR$/06expolimorfismo/06expolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07exabstracao/07exabstracao.iml" filepath="$PROJECT_DIR$/07exabstracao/07exabstracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" filepath="$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso java.iml" filepath="$PROJECT_DIR$/.idea/Curso java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-hora/Data-hora.iml" filepath="$PROJECT_DIR$/Data-hora/Data-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-hora02/Data-hora02.iml" filepath="$PROJECT_DIR$/Data-hora02/Data-hora02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-hora03/Data-hora03.iml" filepath="$PROJECT_DIR$/Data-hora03/Data-hora03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-hora04/Data-hora04.iml" filepath="$PROJECT_DIR$/Data-hora04/Data-hora04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcao_atributos/Triangulo.iml" filepath="$PROJECT_DIR$/funcao_atributos/Triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstracao/abstracao.iml" filepath="$PROJECT_DIR$/abstracao/abstracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstracao01/abstracao01.iml" filepath="$PROJECT_DIR$/abstracao01/abstracao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composicao/composicao.iml" filepath="$PROJECT_DIR$/composicao/composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/enumeracoes/enumeracoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumex01/enumex01.iml" filepath="$PROJECT_DIR$/enumex01/enumex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estoque/estoque.iml" filepath="$PROJECT_DIR$/estoque/estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_finally/estrutura_finally.iml" filepath="$PROJECT_DIR$/estrutura_finally/estrutura_finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_try-catch/estrutura_try-catch.iml" filepath="$PROJECT_DIR$/estrutura_try-catch/estrutura_try-catch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for_each/for_each.iml" filepath="$PROJECT_DIR$/for_each/for_each.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formatacao_string/formatacao_string.iml" filepath="$PROJECT_DIR$/formatacao_string/formatacao_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca02/heranca02.iml" filepath="$PROJECT_DIR$/heranca02/heranca02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herancaex01/herancaex01.iml" filepath="$PROJECT_DIR$/herancaex01/herancaex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lampada/lampada.iml" filepath="$PROJECT_DIR$/lampada/lampada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listas/listas.iml" filepath="$PROJECT_DIR$/listas/listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listasex01/listasex01.iml" filepath="$PROJECT_DIR$/listasex01/listasex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/matrizes/matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrizes02/matrizes02.iml" filepath="$PROJECT_DIR$/matrizes02/matrizes02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" filepath="$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" filepath="$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto01/projeto01.iml" filepath="$PROJECT_DIR$/projeto01/projeto01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repeticao_for/repeticao_for.iml" filepath="$PROJECT_DIR$/repeticao_for/repeticao_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos_de_classe/tipos_de_classe.iml" filepath="$PROJECT_DIR$/tipos_de_classe/tipos_de_classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangulo/triangulo.iml" filepath="$PROJECT_DIR$/triangulo/triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores01/vetores01.iml" filepath="$PROJECT_DIR$/vetores01/vetores01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores02/vetores02.iml" filepath="$PROJECT_DIR$/vetores02/vetores02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoresex01/vetoresex01.iml" filepath="$PROJECT_DIR$/vetoresex01/vetoresex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoresex02/vetoresex02.iml" filepath="$PROJECT_DIR$/vetoresex02/vetoresex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoresex03/vetoresex03.iml" filepath="$PROJECT_DIR$/vetoresex03/vetoresex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoresex04/vetoresex04.iml" filepath="$PROJECT_DIR$/vetoresex04/vetoresex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoresex05/vetoresex05.iml" filepath="$PROJECT_DIR$/vetoresex05/vetoresex05.iml" />
+    </modules>
+  </component>
+</project>
