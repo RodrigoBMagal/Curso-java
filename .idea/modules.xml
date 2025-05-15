@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/07exabstracao/07exabstracao.iml" filepath="$PROJECT_DIR$/07exabstracao/07exabstracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" filepath="$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/09exexcecoes/09exexcecoes.iml" filepath="$PROJECT_DIR$/09exexcecoes/09exexcecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10exarquivos/10exarquivos.iml" filepath="$PROJECT_DIR$/10exarquivos/10exarquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso java.iml" filepath="$PROJECT_DIR$/.idea/Curso java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora/Data-hora.iml" filepath="$PROJECT_DIR$/Data-hora/Data-hora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora02/Data-hora02.iml" filepath="$PROJECT_DIR$/Data-hora02/Data-hora02.iml" />
@@ -19,6 +20,11 @@
       <module fileurl="file://$PROJECT_DIR$/funcao_atributos/Triangulo.iml" filepath="$PROJECT_DIR$/funcao_atributos/Triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstracao/abstracao.iml" filepath="$PROJECT_DIR$/abstracao/abstracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstracao01/abstracao01.iml" filepath="$PROJECT_DIR$/abstracao01/abstracao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquivos/arquivos.iml" filepath="$PROJECT_DIR$/arquivos/arquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquivos02/arquivos02.iml" filepath="$PROJECT_DIR$/arquivos02/arquivos02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquivos03/arquivos03.iml" filepath="$PROJECT_DIR$/arquivos03/arquivos03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquivos04/arquivos04.iml" filepath="$PROJECT_DIR$/arquivos04/arquivos04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquivos05/arquivos05.iml" filepath="$PROJECT_DIR$/arquivos05/arquivos05.iml" />
       <module fileurl="file://$PROJECT_DIR$/composicao/composicao.iml" filepath="$PROJECT_DIR$/composicao/composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/enumeracoes/enumeracoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumex01/enumex01.iml" filepath="$PROJECT_DIR$/enumex01/enumex01.iml" />
