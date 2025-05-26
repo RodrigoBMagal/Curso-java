@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/arquivos05/arquivos05.iml" filepath="$PROJECT_DIR$/arquivos05/arquivos05.iml" />
       <module fileurl="file://$PROJECT_DIR$/composicao/composicao.iml" filepath="$PROJECT_DIR$/composicao/composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/cumprir_contrato/cumprir_contrato.iml" filepath="$PROJECT_DIR$/cumprir_contrato/cumprir_contrato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/default_methods/default_methods.iml" filepath="$PROJECT_DIR$/default_methods/default_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/enumeracoes/enumeracoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumex01/enumex01.iml" filepath="$PROJECT_DIR$/enumex01/enumex01.iml" />
       <module fileurl="file://$PROJECT_DIR$/estoque/estoque.iml" filepath="$PROJECT_DIR$/estoque/estoque.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/heranca02/heranca02.iml" filepath="$PROJECT_DIR$/heranca02/heranca02.iml" />
       <module fileurl="file://$PROJECT_DIR$/herancaex01/herancaex01.iml" filepath="$PROJECT_DIR$/herancaex01/herancaex01.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface02/interface02.iml" filepath="$PROJECT_DIR$/interface02/interface02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_comparable/interface_comparable.iml" filepath="$PROJECT_DIR$/interface_comparable/interface_comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/lampada/lampada.iml" filepath="$PROJECT_DIR$/lampada/lampada.iml" />
       <module fileurl="file://$PROJECT_DIR$/listas/listas.iml" filepath="$PROJECT_DIR$/listas/listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/listasex01/listasex01.iml" filepath="$PROJECT_DIR$/listasex01/listasex01.iml" />
@@ -47,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/matrizes02/matrizes02.iml" filepath="$PROJECT_DIR$/matrizes02/matrizes02.iml" />
       <module fileurl="file://$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" filepath="$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" filepath="$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problema_diamante/problema_diamante.iml" filepath="$PROJECT_DIR$/problema_diamante/problema_diamante.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto01/projeto01.iml" filepath="$PROJECT_DIR$/projeto01/projeto01.iml" />
       <module fileurl="file://$PROJECT_DIR$/repeticao_for/repeticao_for.iml" filepath="$PROJECT_DIR$/repeticao_for/repeticao_for.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos_de_classe/tipos_de_classe.iml" filepath="$PROJECT_DIR$/tipos_de_classe/tipos_de_classe.iml" />
