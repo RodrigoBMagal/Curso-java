@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" filepath="$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/09exexcecoes/09exexcecoes.iml" filepath="$PROJECT_DIR$/09exexcecoes/09exexcecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/10exarquivos/10exarquivos.iml" filepath="$PROJECT_DIR$/10exarquivos/10exarquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12exset/12exset.iml" filepath="$PROJECT_DIR$/12exset/12exset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13exset/13exset.iml" filepath="$PROJECT_DIR$/13exset/13exset.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso java.iml" filepath="$PROJECT_DIR$/.idea/Curso java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora/Data-hora.iml" filepath="$PROJECT_DIR$/Data-hora/Data-hora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora02/Data-hora02.iml" filepath="$PROJECT_DIR$/Data-hora02/Data-hora02.iml" />
@@ -39,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics02/generics02.iml" filepath="$PROJECT_DIR$/generics02/generics02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashcode_equals/hashcode_equals.iml" filepath="$PROJECT_DIR$/hashcode_equals/hashcode_equals.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca02/heranca02.iml" filepath="$PROJECT_DIR$/heranca02/heranca02.iml" />
       <module fileurl="file://$PROJECT_DIR$/herancaex01/herancaex01.iml" filepath="$PROJECT_DIR$/herancaex01/herancaex01.iml" />
@@ -54,6 +57,8 @@
       <module fileurl="file://$PROJECT_DIR$/problema_diamante/problema_diamante.iml" filepath="$PROJECT_DIR$/problema_diamante/problema_diamante.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto01/projeto01.iml" filepath="$PROJECT_DIR$/projeto01/projeto01.iml" />
       <module fileurl="file://$PROJECT_DIR$/repeticao_for/repeticao_for.iml" filepath="$PROJECT_DIR$/repeticao_for/repeticao_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/set.iml" filepath="$PROJECT_DIR$/set/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set02/set02.iml" filepath="$PROJECT_DIR$/set02/set02.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos_curinga/tipos_curinga.iml" filepath="$PROJECT_DIR$/tipos_curinga/tipos_curinga.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos_curinga02/tipos_curinga02.iml" filepath="$PROJECT_DIR$/tipos_curinga02/tipos_curinga02.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos_curinga03/tipos_curinga03.iml" filepath="$PROJECT_DIR$/tipos_curinga03/tipos_curinga03.iml" />
