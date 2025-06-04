@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Data-hora04/Data-hora04.iml" filepath="$PROJECT_DIR$/Data-hora04/Data-hora04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface_comparator/Interface_comparator.iml" filepath="$PROJECT_DIR$/Interface_comparator/Interface_comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstracao/abstracao.iml" filepath="$PROJECT_DIR$/abstracao/abstracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstracao01/abstracao01.iml" filepath="$PROJECT_DIR$/abstracao01/abstracao01.iml" />
       <module fileurl="file://$PROJECT_DIR$/arquivos/arquivos.iml" filepath="$PROJECT_DIR$/arquivos/arquivos.iml" />
@@ -48,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/formatacao_string/formatacao_string.iml" filepath="$PROJECT_DIR$/formatacao_string/formatacao_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcao_atributos/funcao_atributos.iml" filepath="$PROJECT_DIR$/funcao_atributos/funcao_atributos.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoes_como_argumento_de_funcoes/funcoes_como_argumento_de_funcoes.iml" filepath="$PROJECT_DIR$/funcoes_como_argumento_de_funcoes/funcoes_como_argumento_de_funcoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/funções_matematicas/funções_matematicas.iml" filepath="$PROJECT_DIR$/funções_matematicas/funções_matematicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics02/generics02.iml" filepath="$PROJECT_DIR$/generics02/generics02.iml" />
