@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01exfuncao/01exfuncao.iml" filepath="$PROJECT_DIR$/01exfuncao/01exfuncao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02exfuncao/02exfuncao.iml" filepath="$PROJECT_DIR$/02exfuncao/02exfuncao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01exfuncao/01exfuncao2.iml" filepath="$PROJECT_DIR$/01exfuncao/01exfuncao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02exfuncao/02exfuncao2.iml" filepath="$PROJECT_DIR$/02exfuncao/02exfuncao2.iml" />
       <module fileurl="file://$PROJECT_DIR$/03exfuncao/03exfuncao.iml" filepath="$PROJECT_DIR$/03exfuncao/03exfuncao.iml" />
       <module fileurl="file://$PROJECT_DIR$/04exbanco/04exbanco.iml" filepath="$PROJECT_DIR$/04exbanco/04exbanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/05excomposicao/05excomposicao.iml" filepath="$PROJECT_DIR$/05excomposicao/05excomposicao.iml" />
@@ -12,16 +12,17 @@
       <module fileurl="file://$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" filepath="$PROJECT_DIR$/08exexcecoes/08exexcecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/09exexcecoes/09exexcecoes.iml" filepath="$PROJECT_DIR$/09exexcecoes/09exexcecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/10exarquivos/10exarquivos.iml" filepath="$PROJECT_DIR$/10exarquivos/10exarquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11exarquivos/11exarquivos.iml" filepath="$PROJECT_DIR$/11exarquivos/11exarquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/12exset/12exset.iml" filepath="$PROJECT_DIR$/12exset/12exset.iml" />
       <module fileurl="file://$PROJECT_DIR$/13exset/13exset.iml" filepath="$PROJECT_DIR$/13exset/13exset.iml" />
       <module fileurl="file://$PROJECT_DIR$/14exmap/14exmap.iml" filepath="$PROJECT_DIR$/14exmap/14exmap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Curso java.iml" filepath="$PROJECT_DIR$/.idea/Curso java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso java.iml" filepath="$PROJECT_DIR$/Curso java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora/Data-hora.iml" filepath="$PROJECT_DIR$/Data-hora/Data-hora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora02/Data-hora02.iml" filepath="$PROJECT_DIR$/Data-hora02/Data-hora02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora03/Data-hora03.iml" filepath="$PROJECT_DIR$/Data-hora03/Data-hora03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora04/Data-hora04.iml" filepath="$PROJECT_DIR$/Data-hora04/Data-hora04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/funcao_atributos/Triangulo.iml" filepath="$PROJECT_DIR$/funcao_atributos/Triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface_comparator/Interface_comparator.iml" filepath="$PROJECT_DIR$/Interface_comparator/Interface_comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstracao/abstracao.iml" filepath="$PROJECT_DIR$/abstracao/abstracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstracao01/abstracao01.iml" filepath="$PROJECT_DIR$/abstracao01/abstracao01.iml" />
       <module fileurl="file://$PROJECT_DIR$/arquivos/arquivos.iml" filepath="$PROJECT_DIR$/arquivos/arquivos.iml" />
@@ -29,17 +30,25 @@
       <module fileurl="file://$PROJECT_DIR$/arquivos03/arquivos03.iml" filepath="$PROJECT_DIR$/arquivos03/arquivos03.iml" />
       <module fileurl="file://$PROJECT_DIR$/arquivos04/arquivos04.iml" filepath="$PROJECT_DIR$/arquivos04/arquivos04.iml" />
       <module fileurl="file://$PROJECT_DIR$/arquivos05/arquivos05.iml" filepath="$PROJECT_DIR$/arquivos05/arquivos05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atrbuicao_cumulativa/atrbuicao_cumulativa.iml" filepath="$PROJECT_DIR$/atrbuicao_cumulativa/atrbuicao_cumulativa.iml" />
       <module fileurl="file://$PROJECT_DIR$/composicao/composicao.iml" filepath="$PROJECT_DIR$/composicao/composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condicao/condicao.iml" filepath="$PROJECT_DIR$/condicao/condicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condicao_ternaria/condicao_ternaria.iml" filepath="$PROJECT_DIR$/condicao_ternaria/condicao_ternaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/cumprir_contrato/cumprir_contrato.iml" filepath="$PROJECT_DIR$/cumprir_contrato/cumprir_contrato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug/debug.iml" filepath="$PROJECT_DIR$/debug/debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/default_methods/default_methods.iml" filepath="$PROJECT_DIR$/default_methods/default_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/enumeracoes/enumeracoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumex01/enumex01.iml" filepath="$PROJECT_DIR$/enumex01/enumex01.iml" />
       <module fileurl="file://$PROJECT_DIR$/estoque/estoque.iml" filepath="$PROJECT_DIR$/estoque/estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/estrutura_finally/estrutura_finally.iml" filepath="$PROJECT_DIR$/estrutura_finally/estrutura_finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_repeticao/estrutura_repeticao.iml" filepath="$PROJECT_DIR$/estrutura_repeticao/estrutura_repeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/estrutura_try-catch/estrutura_try-catch.iml" filepath="$PROJECT_DIR$/estrutura_try-catch/estrutura_try-catch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_repetição/ex_repetição.iml" filepath="$PROJECT_DIR$/ex_repetição/ex_repetição.iml" />
       <module fileurl="file://$PROJECT_DIR$/for_each/for_each.iml" filepath="$PROJECT_DIR$/for_each/for_each.iml" />
       <module fileurl="file://$PROJECT_DIR$/formatacao_string/formatacao_string.iml" filepath="$PROJECT_DIR$/formatacao_string/formatacao_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcao_atributos/funcao_atributos.iml" filepath="$PROJECT_DIR$/funcao_atributos/funcao_atributos.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funções_matematicas/funções_matematicas.iml" filepath="$PROJECT_DIR$/funções_matematicas/funções_matematicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics02/generics02.iml" filepath="$PROJECT_DIR$/generics02/generics02.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashcode_equals/hashcode_equals.iml" filepath="$PROJECT_DIR$/hashcode_equals/hashcode_equals.iml" />
@@ -48,6 +57,9 @@
       <module fileurl="file://$PROJECT_DIR$/herancaex01/herancaex01.iml" filepath="$PROJECT_DIR$/herancaex01/herancaex01.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface02/interface02.iml" filepath="$PROJECT_DIR$/interface02/interface02.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface_comparable/interface_comparable.iml" filepath="$PROJECT_DIR$/interface_comparable/interface_comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_consumer/interface_consumer.iml" filepath="$PROJECT_DIR$/interface_consumer/interface_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_function/interface_function.iml" filepath="$PROJECT_DIR$/interface_function/interface_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_predicate/interface_predicate.iml" filepath="$PROJECT_DIR$/interface_predicate/interface_predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/lampada/lampada.iml" filepath="$PROJECT_DIR$/lampada/lampada.iml" />
       <module fileurl="file://$PROJECT_DIR$/listas/listas.iml" filepath="$PROJECT_DIR$/listas/listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/listasex01/listasex01.iml" filepath="$PROJECT_DIR$/listasex01/listasex01.iml" />
@@ -57,11 +69,13 @@
       <module fileurl="file://$PROJECT_DIR$/matrizes02/matrizes02.iml" filepath="$PROJECT_DIR$/matrizes02/matrizes02.iml" />
       <module fileurl="file://$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" filepath="$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" filepath="$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" filepath="$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/problema_diamante/problema_diamante.iml" filepath="$PROJECT_DIR$/problema_diamante/problema_diamante.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto01/projeto01.iml" filepath="$PROJECT_DIR$/projeto01/projeto01.iml" />
       <module fileurl="file://$PROJECT_DIR$/repeticao_for/repeticao_for.iml" filepath="$PROJECT_DIR$/repeticao_for/repeticao_for.iml" />
       <module fileurl="file://$PROJECT_DIR$/set/set.iml" filepath="$PROJECT_DIR$/set/set.iml" />
       <module fileurl="file://$PROJECT_DIR$/set02/set02.iml" filepath="$PROJECT_DIR$/set02/set02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch_case/switch_case.iml" filepath="$PROJECT_DIR$/switch_case/switch_case.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos_curinga/tipos_curinga.iml" filepath="$PROJECT_DIR$/tipos_curinga/tipos_curinga.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos_curinga02/tipos_curinga02.iml" filepath="$PROJECT_DIR$/tipos_curinga02/tipos_curinga02.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos_curinga03/tipos_curinga03.iml" filepath="$PROJECT_DIR$/tipos_curinga03/tipos_curinga03.iml" />
@@ -69,6 +83,7 @@
       <module fileurl="file://$PROJECT_DIR$/triangulo/triangulo.iml" filepath="$PROJECT_DIR$/triangulo/triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetores01/vetores01.iml" filepath="$PROJECT_DIR$/vetores01/vetores01.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetores02/vetores02.iml" filepath="$PROJECT_DIR$/vetores02/vetores02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoreseclipse/vetoreseclipse.iml" filepath="$PROJECT_DIR$/vetoreseclipse/vetoreseclipse.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetoresex01/vetoresex01.iml" filepath="$PROJECT_DIR$/vetoresex01/vetoresex01.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetoresex02/vetoresex02.iml" filepath="$PROJECT_DIR$/vetoresex02/vetoresex02.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetoresex03/vetoresex03.iml" filepath="$PROJECT_DIR$/vetoresex03/vetoresex03.iml" />
