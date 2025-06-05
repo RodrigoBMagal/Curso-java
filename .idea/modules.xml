@@ -16,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/12exset/12exset.iml" filepath="$PROJECT_DIR$/12exset/12exset.iml" />
       <module fileurl="file://$PROJECT_DIR$/13exset/13exset.iml" filepath="$PROJECT_DIR$/13exset/13exset.iml" />
       <module fileurl="file://$PROJECT_DIR$/14exmap/14exmap.iml" filepath="$PROJECT_DIR$/14exmap/14exmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15exlambda/15exlambda.iml" filepath="$PROJECT_DIR$/15exlambda/15exlambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16exlambda/16exlambda.iml" filepath="$PROJECT_DIR$/16exlambda/16exlambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Curso java.iml" filepath="$PROJECT_DIR$/Curso java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora/Data-hora.iml" filepath="$PROJECT_DIR$/Data-hora/Data-hora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-hora02/Data-hora02.iml" filepath="$PROJECT_DIR$/Data-hora02/Data-hora02.iml" />
@@ -71,6 +73,7 @@
       <module fileurl="file://$PROJECT_DIR$/matrizes02/matrizes02.iml" filepath="$PROJECT_DIR$/matrizes02/matrizes02.iml" />
       <module fileurl="file://$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" filepath="$PROJECT_DIR$/membros_estaticos/membros_estaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" filepath="$PROJECT_DIR$/membros_estaticos02/membros_estaticos02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pipeline/pipeline.iml" filepath="$PROJECT_DIR$/pipeline/pipeline.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" filepath="$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/problema_diamante/problema_diamante.iml" filepath="$PROJECT_DIR$/problema_diamante/problema_diamante.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto01/projeto01.iml" filepath="$PROJECT_DIR$/projeto01/projeto01.iml" />
